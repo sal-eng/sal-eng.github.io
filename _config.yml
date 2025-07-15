@@ -1,0 +1,30 @@
+title: Muhammad Saleh Anwar - Job Experience, Research & Projects
+description: A portfolio showcasing my career expertise, academic research areas, publications, and current projects.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sal-eng.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: sal-eng/sal-eng.github.io # Optional, but good practice
+
+# Theme settings (default is minima)
+# theme: jekyll-theme-midnight # Or jekyll-theme-architect, jekyll-theme-hacker, etc.
+remote_theme: pages-themes/midnight@v0.2.0
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+
+# Exclude files from the build
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
