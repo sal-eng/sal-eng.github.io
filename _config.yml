@@ -5,7 +5,7 @@ url: "https://sal-eng.github.io" # the base hostname & protocol for your site, e
 repository: sal-eng/sal-eng.github.io # Optional, but good practice
 
 # Theme settings (default is minima)
-# theme: jekyll-theme-midnight # Or jekyll-theme-architect, jekyll-theme-hacker, etc.
+theme: jekyll-theme-midnight # Or jekyll-theme-architect, jekyll-theme-hacker, etc.
 remote_theme: pages-themes/midnight@v0.2.0
 
 # Build settings

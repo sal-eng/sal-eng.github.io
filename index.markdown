@@ -5,7 +5,7 @@ title: Welcome
 
 ## Welcome to My Research and Projects Page
 
-Hi, I'm **[Your Name]**, a [Your Title/Affiliation, e.g., PhD Candidate in Computer Science] at [Your University/Institution]. My research focuses on [briefly describe your core research area, e.g., machine learning for medical image analysis].
+Hi, I'm **[Muhammad Saleh Anwar]**, a [Your Title/Affiliation, e.g., PhD Candidate in Computer Science] at [Your University/Institution]. My research focuses on [briefly describe your core research area, e.g., machine learning for medical image analysis].
 
 On this site, you'll find:
 * A summary of my [research interests](#research).
